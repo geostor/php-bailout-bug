@@ -7,3 +7,8 @@ were already in that reused memory.
 ## Run
 
     cc concept.c -o concept && ./concept
+
+## Output
+
+    user=user1 group=admin
+    user=user2 group=admin
