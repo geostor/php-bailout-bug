@@ -8,6 +8,11 @@ were already in that reused memory.
 
     cc concept.c -o concept && ./concept
 
+## Input
+
+    user=user1 group=admin
+    user=user2 group=guest
+
 ## Output
 
     user=user1 group=admin
